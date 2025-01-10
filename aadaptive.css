@@ -1,0 +1,18 @@
+@media (max-width: 600px) {
+    .container {
+        /* min-width: 2pxpx; */
+        padding-inline: 128px;
+    }
+    img {
+      max-width: 215px;
+    }
+  .header a {
+    display: none;
+  }
+  .cafe {
+    flex-direction: column-reverse;
+  }
+  .have {
+    
+  }
+}
